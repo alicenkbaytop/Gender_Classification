@@ -5,13 +5,12 @@ Gender classification by name.
 ![main page](/images/main.png)
 
 ### Prediction Page for Female
-![prediction page](/images/prediction_female.png)
+![prediction page](/images/predict_female.png)
 
 ### Prediction Page for Male
 ![prediction page](/images/prediction_male.png)
 
-## Content
-
+### Content
 * Import Module and Data
 * Data Analysis
 * Building Models
