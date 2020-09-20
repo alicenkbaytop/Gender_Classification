@@ -1,4 +1,4 @@
-# :female_sign: Gender Classification Web App :male_sign:
+# :female_sign: Gender Classification Web App(Flask) :male_sign:
 Gender classification by name.
 
 ### Main Page 
